@@ -1,3 +1,5 @@
+'use client';
+
 import { Award, Users, CheckCircle2, ThumbsUp } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { motion } from 'motion/react';

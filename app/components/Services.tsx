@@ -1,3 +1,5 @@
+'use client';
+
 import { Shield, Scissors, Wrench, Package, Home, Award } from 'lucide-react';
 import { motion } from 'motion/react';
 
